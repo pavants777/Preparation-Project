@@ -33,11 +33,11 @@
     ```
 3. For Mobile application :
    ```bash
-     cd app
+   cd app
    ```
    ```bash
-      flutter pub get
-    ```
+   flutter pub get
+   ```
    ```bash
     flutter run
     ```
