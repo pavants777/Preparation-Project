@@ -23,13 +23,13 @@
 1. Clone the project:
 
     ```bash
-      git clone https://github.com/Preparation-Project.git
+    git clone https://github.com/Preparation-Project.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-      cd Preparation
+    cd Preparation
     ```
 3. For Mobile application :
    ```bash
@@ -39,8 +39,8 @@
    flutter pub get
    ```
    ```bash
-    flutter run
-    ```
+   flutter run
+   ```
 
 4. Web application :
     ```bash
