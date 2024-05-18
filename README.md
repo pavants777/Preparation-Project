@@ -1,5 +1,13 @@
 # Preparation-Project
 
+<div align="center">
+ <span>
+  <h1>Problem Statement</h1>
+ <img src="https://github.com/pavants777/Preparation-Project/blob/main/Images/CLC.png" alt="Problem Statement" height="auto" />
+ </span>
+ </div>
+
+
 
 ## :computer: Technologies Used
 
