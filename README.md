@@ -1,5 +1,13 @@
 # Preparation-Project
 
+<div align="center">
+ <span>
+  <h1>Problem Statement</h1>
+ <img src="https://github.com/pavants777/Preparation-Project/blob/main/Images/CLC.png" alt="Problem Statement" height="auto" />
+ </span>
+ </div>
+
+
 
 ## :computer: Technologies Used
 
@@ -15,24 +23,24 @@
 1. Clone the project:
 
     ```bash
-      git clone https://github.com/Preparation-Project.git
+    git clone https://github.com/Preparation-Project.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-      cd Preparation
+    cd Preparation
     ```
 3. For Mobile application :
    ```bash
-     cd app
+   cd app
    ```
    ```bash
-      flutter pub get
-    ```
+   flutter pub get
+   ```
    ```bash
-    flutter run
-    ```
+   flutter run
+   ```
 
 4. Web application :
     ```bash
@@ -49,3 +57,13 @@
    ```bash
    node index.js
    ```
+
+
+## :v: Maintainers
+
+-   [Pavan Gowda T S](https://github.com/pavants777)
+
+## :v: Collaborators 
+
+-  
+-  
